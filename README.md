@@ -21,7 +21,7 @@ A Django web application that predicts silver prices using machine learning. The
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/silver-prediction.git
+git clone https://github.com/Harshit1o/Silver_Price_Detection.git
 cd silver-prediction
 ```
 
